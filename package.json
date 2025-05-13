@@ -1,0 +1,12 @@
+{
+  "name": "trem-lite",
+  "version": "1.0.0",
+  "description": "TREM-Lite 指定區域震度監測工具",
+  "main": "tools/subscribe-data.js",
+  "scripts": {
+    "start": "node tools/subscribe-data.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.2"
+  }
+}
